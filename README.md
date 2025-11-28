@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello，我是 王总（GoodTime）
+# 👋 Hello，我是 GoodTime
 ### .NET 全栈开发工程师 | 前端工程师 | DevOps & 自动化流程实践者 | AI 探索者
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=.NET+%2B+Vue+Full+Stack+Developer;Backend+%7C+Frontend+%7C+DevOps;AI+Workflow+n8n+%2F+Dify+%2F+Coze;Keep+Building%2C+Keep+Shipping%2C+Keep+Growing" />
