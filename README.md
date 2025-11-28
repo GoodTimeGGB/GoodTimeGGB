@@ -144,9 +144,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/GoodTimeGGB)
-[![Blog](https://img.shields.io/badge/Blog-333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-blog-link)
-[![Notes](https://img.shields.io/badge/Notes-3A7AFE?style=for-the-badge&logo=notion&logoColor=white)](https://your-note-link)
-[![Tools](https://img.shields.io/badge/DevTools-00B894?style=for-the-badge&logo=toolkit&logoColor=white)](https://your-tools-page)
+[![Blog](https://img.shields.io/badge/Blog-333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goodtimeggb.github.io/)
 
 </div>
 
@@ -166,7 +164,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@example.com)
+[![Email](https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjn0427@hotmail.com)
 
 ---
 
