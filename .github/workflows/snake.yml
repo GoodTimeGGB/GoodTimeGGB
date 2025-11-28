@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # 手动触发
   push:                   # 仓库有更新时也会生成
     branches:
-      - main
+      - master
 
 jobs:
   build:
