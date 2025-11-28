@@ -97,7 +97,7 @@
 
 ---
 
-## 🧊 Project Cards · 项目可视化展示墙（自动渲染）
+## 🧊 Project Cards · 项目可视化展示墙
 
 <div align="center">
 
