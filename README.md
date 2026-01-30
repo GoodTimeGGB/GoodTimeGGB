@@ -54,14 +54,13 @@
 
 ## ⭐ Featured Projects · 项目展示
 
-### 🔹 **程序员加油站（Programmer Supply Station）**
-📎 https://github.com/GoodTimeGGB/ProgrammerSupplyStation  
-一个面向程序员的 **效率提升与资源聚合平台**。  
-涵盖：开发工具、学习路线、AI 工具、教程、效率提升方法等。  
+### 🔹 **程序员加油站（KeepAlive）**
+📎 [https://github.com/GoodTimeGGB/ProgrammerSupplyStation](https://github.com/GoodTimeGGB/KeepAlive)  
+一个面向程序员的 **喝水久坐提醒小程序**。  
 亮点：  
-- 内容广泛而系统  
-- 可持续沉淀的程序员知识库  
-- 多方向（AI / 编程 / 工具 / 提效）共存
+- 喝水提醒  
+- 久坐提醒  
+- 其他待开发事项
 
 ---
 
