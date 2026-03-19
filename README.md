@@ -53,7 +53,15 @@
 ---
 
 ## ⭐ Featured Projects · 项目展示
+### 🔹 **AI资讯同步技能 (ai-news-sync)**
+📎 [[https://github.com/GoodTimeGGB/ProgrammerSupplyStation](https://github.com/GoodTimeGGB/KeepAlive)](https://github.com/GoodTimeGGB/ai-news-sync)  
+AI资讯同步工具 - 自动获取最新AI资讯，同步到多平台，支持定时任务和知识中枢工作流。。  
+亮点：  
+- 支持同步Obsidian(本地)
+- 支持同步Notion  
+- 支持同步IMA
 
+---
 ### 🔹 **程序员加油站（KeepAlive）**
 📎 [https://github.com/GoodTimeGGB/ProgrammerSupplyStation](https://github.com/GoodTimeGGB/KeepAlive)  
 一个面向程序员的 **喝水久坐提醒小程序**。  
