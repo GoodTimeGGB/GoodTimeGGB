@@ -3,7 +3,7 @@
 # 👋 Hello，我是 GoodTime
 ### .NET 全栈开发工程师 · AI Agent 与工作流实践者 · 技术自媒体《宁的AI小站》主理人
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=760&lines=.NET+%2B+Vue+Full+Stack+Developer;Backend+%7C+Frontend+%7C+DevOps;Building+Agent+Skills+%26+Workflows;Keep+Building%2C+Keep+Shipping%2C+Keep+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=760&lines=.NET+%2B+Vue+Full+Stack+Developer;Backend+%7C+Frontend+%7C+DevOps;Building+Agent+Skills+%26+Workflows;Keep+Building%2C+Keep+Shipping%2C+Keep+Growing" />
 
 </div>
 
@@ -136,33 +136,52 @@
 
 ---
 
-## 🧊 Project Cards · 项目可视化展示墙（自动渲染）
+## 🧊 Project Cards · 项目可视化展示墙
 
 <div align="center">
 
-<a href="https://github.com/GoodTimeGGB/workbuddy-green-book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoodTimeGGB&repo=workbuddy-green-book&theme=radical" />
-</a>
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
 
-<a href="https://github.com/GoodTimeGGB/ning-md2wechat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoodTimeGGB&repo=ning-md2wechat&theme=radical" />
-</a>
+📗 **[WorkBuddy 绿皮书](https://github.com/GoodTimeGGB/workbuddy-green-book)** ⭐
+<br/>AI Agent 办公新范式 · 132 章
 
-<a href="https://github.com/GoodTimeGGB/niulai-style">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoodTimeGGB&repo=niulai-style&theme=radical" />
-</a>
+</td>
+<td align="center" width="33%" valign="top">
 
-<a href="https://github.com/GoodTimeGGB/workbuddy-migrate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoodTimeGGB&repo=workbuddy-migrate&theme=radical" />
-</a>
+🐴 **[niulai-style](https://github.com/GoodTimeGGB/niulai-style)** ⭐3
+<br/>《牛来》动画风格 · 水墨海报风 + 低多边形
 
-<a href="https://github.com/GoodTimeGGB/code-test-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoodTimeGGB&repo=code-test-agent&theme=radical" />
-</a>
+</td>
+<td align="center" width="33%" valign="top">
 
-<a href="https://github.com/GoodTimeGGB/qwenwork-green-book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoodTimeGGB&repo=qwenwork-green-book&theme=radical" />
-</a>
+🖊️ **[ning-md2wechat](https://github.com/GoodTimeGGB/ning-md2wechat)** ⭐
+<br/>公众号排版工具 · 11 套主题
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+
+📗 **[千问办公绿皮书](https://github.com/GoodTimeGGB/qwenwork-green-book)** ⭐
+<br/>47 篇官方文档重排 · 可打印出书
+
+</td>
+<td align="center" width="33%" valign="top">
+
+🚚 **[workbuddy-migrate](https://github.com/GoodTimeGGB/workbuddy-migrate)** ⭐1
+<br/>Agent 跨设备迁移 · Win / macOS / Linux
+
+</td>
+<td align="center" width="33%" valign="top">
+
+🧪 **[code-test-agent](https://github.com/GoodTimeGGB/code-test-agent)** ⭐
+<br/>UI / API / 单测 · Trae 一句话编排
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -173,8 +192,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=GoodTimeGGB&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoodTimeGGB&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodTimeGGB&layout=compact&theme=radical" height="150" />
+<img src="https://streak-stats.demolab.com?user=GoodTimeGGB&theme=radical" height="160" />
 
 </div>
 
@@ -203,18 +221,10 @@
 
 ---
 
-## 🖌 Custom Header · 主题标题
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=GoodTimeGGB%20-%20Full%20Stack%20%2B%20AI%20Builder&fontSize=28&fontAlign=50&fontColor=ffffff" />
+### 🌟 *"把复杂的事变简单，就是实力。"*
 
-</div>
-
----
-
-<div align="center">
-
-### 🌟 *“把复杂的事变简单，就是实力。”*
+<sub>📌 卡片墙 · stats · streak · langs · snake 由 [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) / [Demolab](https://github.com/demolab) / 仓库内 Action 提供渲染，外部服务偶发不稳定时破图为正常现象，可手动刷新页面重试。</sub>
 
 </div>
